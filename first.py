@@ -1,1 +1,2 @@
-print("测试asfasdf")
+print("测试")
+print("比较sss")
